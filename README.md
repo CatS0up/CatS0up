@@ -7,7 +7,7 @@
 In 2021, I completed my studies in Computer Science at the John Paul II Catholic University of Lublin. My primary interest lies in the PHP language and the Laravel framework. However, my technical curiosity isn’t confined to these areas - I’ve had the opportunity to work with a variety of technologies, including lesser-known ones like ExtJs. These experiences have been enlightening, teaching me many things. But the most crucial lesson I’ve learned is the importance of flexibility in a programmer’s skill set. 😉
 </p>
 
-<p> Currently, in my spare time, I am developing my side project (I will provide a link to it here) and dedicating myself to my interests.</p>
+<p> Currently, in my spare time, I am developing my side project <a href="https://github.com/CatS0up/whey"><b>Whey!</b></a> and dedicating myself to my interests.</p>
 </div>
 
 <br>
